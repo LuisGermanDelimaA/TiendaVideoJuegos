@@ -1,0 +1,50 @@
+.page-title {
+    width: 50% !important;
+}
+.lista_btn {
+    width: 50% !important;
+    text-align: right;
+}
+.lista_btn {
+    padding: 5px;
+    margin-left: 20px;
+}
+.center{
+	text-align: center !important; 
+}
+.centrarh1 {
+    display: inline-flex;
+    justify-content: space-evenly;
+}
+.botones{
+	margin-top: 10px;
+}
+.has-errorM{
+  border: solid 1px red !important;
+}
+.form-group.has-error label.control-label, .form-group.has-error .help-block {
+  color: #f44336;
+  font-weight: 600;
+}
+.hide{
+	display: none !important;
+}
+.btn{
+	border: solid 1px;
+}
+.boton-examinar {
+    background-color: 
+#F4F4F4;
+color:
+#4B4B4B;
+line-height: 28px;
+padding: 0px 15px;
+font-size: 0.9rem;
+border-radius: 8px 8px 8px 8px;
+-moz-border-radius: 8px 8px 8px 8px;
+-webkit-border-radius: 8px 8px 8px 8px;
+border: 1px solid
+    #DDDDDD;
+    text-align: center;
+    vertical-align: top;
+}
